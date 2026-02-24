@@ -2,7 +2,7 @@
 
 Last updated: February 24, 2026
 
-TuneMate ("we", "our", or "us") respects your privacy. This Privacy Policy explains how the TuneMate mobile app (package ID: `com.benmonley.tunemate`) handles information.
+TuneMate ("we", "our", or "us") respects your privacy. This Privacy Policy explains how the TuneMate mobile app handles information.
 
 ## Summary
 
@@ -79,5 +79,5 @@ We may update this Privacy Policy from time to time. Updates will be posted at t
 For privacy questions, contact:
 
 - Name: Ben Monley
-- Email: `REPLACE_WITH_CONTACT_EMAIL`
+- Email: benmonley@hotmail.com
 
